@@ -66,7 +66,11 @@ Os dados utilizados são sintéticos, gerados com padrões estatísticos realist
 ## Autores
 
 André Bezerra da Costa — RA 573204
+
 Daniel Nascimento de Macedo — RA 572497
+
 Emanuela da Silva Vieira — RA 569139
+
 Guilherme Daniel Laurenti — RA 571240
+
 Manuela Batista de Souza — RA 573642
